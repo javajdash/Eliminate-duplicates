@@ -10,7 +10,7 @@ The distinct numbers are: 1 2 3 6 4 5
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main {
+public class EliminateDuplicates {
   public static void main(String[] args) {
     //Prompt user to enter 10 integers
     Scanner input = new Scanner(System.in);
